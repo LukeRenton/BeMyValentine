@@ -6,7 +6,7 @@ Project for anyone to expand on (whichever cool features they can think of) to a
 
 ## Project Demo
 <video controls>
-  <source src="./assests/DemoVidValentines.mp4" type="video/mp4">
+  <source src="https://github.com/LukeRenton/BeMyValentine/blob/master/assests/DemoVidValentines.mp4" type="video/mp4">
 </video>
 
 
