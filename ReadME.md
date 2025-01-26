@@ -5,10 +5,7 @@
 Project for anyone to expand on (whichever cool features they can think of) to ask someone to be your valentine.
 
 ## Project Demo
-<video controls>
-  <source src="https://github.com/LukeRenton/BeMyValentine/blob/master/assests/DemoVidValentines.mp4" type="video/mp4">
-</video>
-
+![Demo of project](DemoVidValentines.gif)
 
 ## Project Setup
 ### 1. Clone the repository from [GitHub](https://github.com/LukeRenton/BeMyValentine)
