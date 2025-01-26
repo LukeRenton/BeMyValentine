@@ -71,6 +71,7 @@ document.getElementById('no-btn').addEventListener('click', () => {
     
 });
 
+// Someone fix this -- im lazy
 document.getElementById('yes-btn').addEventListener('click', () => {
     // Make everythin else invisible and display the victory GIF
     const noButton = document.getElementById('no-btn');
